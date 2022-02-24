@@ -30,7 +30,7 @@ export default function Footer() {
             <SocialIcons />
           </Flex>
 
-          <p>&copy; 2022 Huddle. All rights reserved.</p>
+          <p>&copy; 2022 Huddle. All rights reserved. Travery Media Tutorial.</p>
         </Container>
       </StyledFooter>
     );
